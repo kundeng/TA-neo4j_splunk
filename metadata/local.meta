@@ -1,0 +1,9 @@
+[TA-neo4j_credential/default]
+owner = splunk-system-user
+version = 6.5.2
+modtime = 1486304246.317212500
+
+[TA-neo4j_customized/default]
+owner = splunk-system-user
+version = 6.5.2
+modtime = 1486304246.369351900
